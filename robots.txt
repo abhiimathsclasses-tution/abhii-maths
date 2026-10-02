@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhiimathsclasses-tution.github.io/abhii-maths/sitemap.xml
